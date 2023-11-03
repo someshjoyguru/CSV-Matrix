@@ -6,6 +6,6 @@
 
 Check Out My PPT [Here](https://github.com/someshjoyguru/CSV-Matrix/blob/main/Powerpoint%20Presentations/CSV%20Matrix-Joyguru.pdf)
 
-Check Out My Jupter Notebook [Here](https://colab.research.google.com/drive/1XX-jrgMDJqltG3QGGE5U08htO2zVkr1X?usp=sharing)
+Check Out My Jupyter Notebook [Here](https://colab.research.google.com/drive/1XX-jrgMDJqltG3QGGE5U08htO2zVkr1X?usp=sharing)
 
 I welcome valuable suggestions and additional insights to enhance the analysis further. Your contributions are highly appreciated. 😀🙏💐
